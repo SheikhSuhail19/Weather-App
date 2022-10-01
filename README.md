@@ -5,6 +5,6 @@ Weather app written in HTML, CSS, and JavaScript using the APIs for fetching wea
 
 ### Screenshots while testing: <br/>
 
-<img src="pic/pic1.png"> <br/>
-<img src="pic/pic2.png"> <br/>
-<img src="pic/pic3.png"> <br/>
+<img src="Weather-App/pic/pic1.png"> <br/>
+<img src="Weather-App/pic/pic2.png"> <br/>
+<img src="Weather-App/pic/pic3.png"> <br/>
